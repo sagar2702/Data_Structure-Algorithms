@@ -1,9 +1,10 @@
+//time complexity log(n)
+
 #include<iostream>
 #define ll long long
 #define N 1000000007
 using namespace std;
 
-//time complexity log(n)
 ll large_power(ll x,ll y){
     ll result=1;
     while(y>0)
