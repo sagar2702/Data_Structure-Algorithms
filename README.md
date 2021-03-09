@@ -1,6 +1,6 @@
 # About me
 
-I am Sagar Chikhale, 3rd year CSE student. I do competitive programming to keep me motivated towards data structure and algorithms.
+I am Sagar Chikhale, final year CSE student. I do competitive programming to keep me motivated towards data structure and algorithms.
 
 # Links
 
